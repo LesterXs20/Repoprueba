@@ -39,6 +39,8 @@ def calculadora():
         return
 
     print("Resultado:", resultado)
+    print("linea de prueb")
+
 
 # Llamar a la calculadora
 calculadora()
